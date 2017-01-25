@@ -1,0 +1,16 @@
+player connects
+
+when entity on map pressed 
+	check if already team, if true end
+	check if team has boss
+		if no boss
+			become boss
+		elseif yes boss
+			become staff
+		else 
+			return false
+	
+	
+
+
+

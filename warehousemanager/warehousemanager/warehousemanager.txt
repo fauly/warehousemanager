@@ -1,0 +1,19 @@
+"Gamemode"
+{
+	"base"			"base"
+	"title"			"Warehouse Manager"
+	"maps"			"^rp_"
+	"menusystem"	"1"
+	"workshopid"	""
+	"settings"
+	{
+		1
+		{
+			"name"		"wm_test"
+			"text"		"Test"
+			"help"		"Command used when testing integrity."
+			"type"		"Numeric"
+			"default"	"1"
+		}
+	}
+}
